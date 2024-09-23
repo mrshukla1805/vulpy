@@ -1,4 +1,5 @@
 click
+my-private-package==0.1.0
 cryptography
 Flask
 geoip2
